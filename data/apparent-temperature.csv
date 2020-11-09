@@ -1,4 +1,4 @@
-temperature(ºC),wind_speed(km/h),apparent_temperature
+wind_speed(km/h),temperature(ºC),apparent_temperature
 5,5,4
 10,5,3
 15,5,2
