@@ -1,0 +1,49 @@
+# Cálculo 2 - Leandro Cruvinel Lemes
+
+## Cronograma de aulas - 2020 - 2s
+
+- 30/03/2021 - Revisão de limite e apresentação do curso
+- 06/04/2021 - Revisão de derivada
+- 08/04/2021 - Revisão de integral
+- 09/04/2021 - Revisão de vetores, retas e planos
+- 13/04/2021 - Revisão de curvas e superfícies
+- 15/04/2021 - Domínio de funções de várias variáveis
+- 16/04/2021 - Limite e continuidade de funções de várias variáveis
+- 20/04/2021 - Derivadas parciais
+- 22/04/2021 - Planos tangentes
+- 23/04/2021 - Regra da cadeia
+- 27/04/2021 - Aula de revisão com resolução de exercícios
+- 29/04/2021 - Vetor Gradiente
+- 30/04/2021 - Máximos e mínimos (Parte 1)
+- 04/05/2021 - Máximos e mínimos (Parte 2)
+- 06/05/2021 - Multiplicadores de lagrange (Parte 1)
+- 07/05/2021 - Multiplicadores de lagrange (Parte 2)
+- 11/05/2021 - Aula de revisão com resolução de exercícios
+- 13/05/2021 - Primeira atividade avaliativa (Assíncrona)
+- 14/05/2021 - Integrais duplas sobre retângulos
+- 18/05/2021 - Resolução e comentários da primeira atividade avaliativa
+- 20/05/2021 - Integrais duplas sobre regiões do Tipo I
+- 21/05/2021 - Integrais duplas sobre regiões do Tipo II
+- 25/05/2021 - Aula de revisão com resolução de exercícios
+- 27/05/2021 - Integrais duplas em coordenadas polares (Parte 1)
+- 28/05/2021 - Integrais duplas em coordenadas polares (Parte 2)
+- 01/06/2021 - Integrais triplas sobre paralelepípedos
+- 08/06/2021 - Integrais triplas sobre regiões gerais (Parte 1)
+- 10/06/2021 - Integrais triplas sobre regiões gerais (Parte 2)
+- 11/06/2021 - Integrais triplas em coordenadas esféricas
+- 15/06/2021 - Integrais triplas em coordenadas cilíndricas
+- 17/06/2021 - Aula de revisão com resolução de exercícios
+- 18/06/2021 - Segunda atividade avaliativa (Assíncrona)
+- 22/06/2021 - Resolução e comentários da segunda atividade avaliativa
+- 24/06/2021 - Campos vetoriais (Assíncrona)
+- 25/06/2021 - Integrais de linha
+- 29/06/2021 - Teorema fundamental das integrais de linha
+- 01/07/2021 - Teorema de Green
+- 02/07/2021 - Aula de revisão com resolução de exercícios
+- 06/07/2021 - Rotacional e divergente
+- 08/07/2021 - Superfícies parametrizadas e suas áreas
+- 09/07/2021 - Integrais de superfícies
+- 15/07/2021 - Teorema de Stokes
+- 16/07/2021 - Teorema de Gauss
+- 17/07/2021 - Aula de revisão com resolução de exercícios
+- 22/07/2021 - Terceira atividade avaliativa
