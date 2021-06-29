@@ -47,3 +47,4 @@
 - 16/07/2021 - Teorema de Gauss
 - 17/07/2021 - Aula de revisão com resolução de exercícios
 - 22/07/2021 - Terceira atividade avaliativa
+- 27/07/2021 - Exame
