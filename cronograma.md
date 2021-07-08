@@ -43,8 +43,8 @@
 - 06/07/2021 - Rotacional e divergente
 - 08/07/2021 - Superfícies parametrizadas e suas áreas
 - 09/07/2021 - Integrais de superfícies
-- 15/07/2021 - Teorema de Stokes
-- 16/07/2021 - Teorema de Gauss
-- 17/07/2021 - Aula de revisão com resolução de exercícios
+- 13/07/2021 - Teorema de Stokes
+- 15/07/2021 - Teorema de Gauss
+- 16/07/2021 - Aula de revisão com resolução de exercícios
 - 22/07/2021 - Terceira atividade avaliativa
 - 27/07/2021 - Exame
