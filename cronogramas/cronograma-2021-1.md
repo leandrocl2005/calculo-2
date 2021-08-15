@@ -1,0 +1,50 @@
+# Cálculo 2 - Leandro Cruvinel Lemes
+
+## Cronograma de aulas - 2020 - 2s
+
+- 16/08/2021 - 	Revisão de limite e apresentação do curso
+- 17/08/2021 - 	Revisão de derivada
+- 19/08/2021 - 	Revisão de integral
+- 23/08/2021 - 	Revisão de vetores, retas e planos
+- 24/08/2021 - 	Revisão de curvas e superfícies
+- 26/08/2021 - 	Domínio de funções de várias variáveis
+- 30/08/2021 - 	Limite e continuidade de funções de várias variáveis
+- 31/08/2021 - 	Derivadas parciais
+- 02/09/2021 - 	Planos tangentes
+- 09/09/2021 - 	Regra da cadeia
+- 13/09/2021 - 	Aula de revisão com resolução de exercícios
+- 14/09/2021 - 	Vetor Gradiente
+- 16/09/2021 - 	Máximos e mínimos (Parte 1)
+- 20/09/2021 - 	Máximos e mínimos (Parte 2)
+- 21/09/2021 - 	Multiplicadores de lagrange (Parte 1)
+- 23/09/2021 - 	Multiplicadores de lagrange (Parte 2)
+- 27/09/2021 - 	Aula de revisão com resolução de exercícios
+- 28/09/2021 - 	Primeira atividade avaliativa (Assíncrona)
+- 30/09/2021 - 	Integrais duplas sobre retângulos
+- 04/10/2021 - 	Integrais duplas sobre regiões do Tipo I
+- 05/10/2021 - 	Integrais duplas sobre regiões do Tipo II
+- 07/10/2021 - 	Aula de revisão com resolução de exercícios
+- 14/10/2021 - 	Integrais duplas em coordenadas polares (Parte 1)
+- 18/10/2021 - 	Integrais duplas em coordenadas polares (Parte 2)
+- 19/10/2021 - 	Integrais triplas sobre paralelepípedos
+- 21/10/2021 - 	Integrais triplas sobre regiões gerais (Parte 1)
+- 25/10/2021 - 	Integrais triplas sobre regiões gerais (Parte 2)
+- 26/10/2021 - 	Mudança de coordenadas
+- 04/11/2021 - 	Integrais triplas em coordenadas cilíndricas
+- 08/11/2021 - 	Integrais triplas em coordenadas esféricas
+- 09/11/2021 - 	Aula de revisão com resolução de exercícios
+- 11/11/2021 - 	Segunda atividade avaliativa (Assíncrona)
+- 16/11/2021 - 	Campos vetoriais (Assíncrona)
+- 18/11/2021 - 	Integrais de linha
+- 22/11/2021 - 	Teorema fundamental das integrais de linha
+- 23/11/2021 - 	Teorema de Green
+- 25/11/2021 - 	Aula de revisão com resolução de exercícios
+- 29/11/2021 - 	Rotacional e divergente
+- 30/11/2021 - 	Superfícies parametrizadas e suas áreas
+- 02/12/2021 - 	Integrais de superfícies
+- 06/12/2021 - 	Aula de revisão com resolução de exercícios
+- 07/12/2021 - 	Teorema de Stokes
+- 13/12/2021 - 	Teorema de Gauss
+- 14/12/2021 - 	Aula de revisão com resolução de exercícios
+- 20/12/2021 -  Terceira atividade avaliativa
+- 03/01/2021 -  Exame
