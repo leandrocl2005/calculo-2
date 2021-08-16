@@ -46,5 +46,5 @@
 - 07/12/2021 - 	Teorema de Stokes
 - 13/12/2021 - 	Teorema de Gauss
 - 14/12/2021 - 	Aula de revisão com resolução de exercícios
-- 20/12/2021 -  Terceira atividade avaliativa
+- 20/12/2021 -  Terceira atividade avaliativa (Assíncrona)
 - 03/01/2021 -  Exame
