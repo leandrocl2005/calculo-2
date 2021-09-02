@@ -11,8 +11,8 @@
 - 30/08/2021 - 	Limite e continuidade de funções de várias variáveis
 - 31/08/2021 - 	Derivadas parciais
 - 02/09/2021 - 	Planos tangentes
-- 09/09/2021 - 	Regra da cadeia
-- 13/09/2021 - 	Aula de revisão com resolução de exercícios
+- 09/09/2021 - 	Aula de revisão com resolução de exercícios
+- 13/09/2021 - 	Regra da cadeia
 - 14/09/2021 - 	Vetor Gradiente
 - 16/09/2021 - 	Máximos e mínimos (Parte 1)
 - 20/09/2021 - 	Máximos e mínimos (Parte 2)
