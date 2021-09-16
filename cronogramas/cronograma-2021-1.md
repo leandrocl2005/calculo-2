@@ -14,8 +14,8 @@
 - 09/09/2021 - 	Aula de revisão com resolução de exercícios
 - 13/09/2021 - 	Regra da cadeia
 - 14/09/2021 - 	Vetor Gradiente
-- 16/09/2021 - 	Máximos e mínimos (Parte 1)
-- 20/09/2021 - 	Máximos e mínimos (Parte 2)
+- 16/09/2021 - 	Máximos e mínimos locais: Pontos críticos e teste da segunda derivada
+- 20/09/2021 - 	Máximos e mínimos absolutos em domínios fechados e limitados
 - 21/09/2021 - 	Multiplicadores de lagrange (Parte 1)
 - 23/09/2021 - 	Multiplicadores de lagrange (Parte 2)
 - 27/09/2021 - 	Aula de revisão com resolução de exercícios
