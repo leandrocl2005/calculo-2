@@ -21,8 +21,8 @@
 - 27/09/2021 - 	Aula de revisão com resolução de exercícios
 - 28/09/2021 - 	Primeira atividade avaliativa (Assíncrona)
 - 30/09/2021 - 	Integrais duplas sobre retângulos
-- 04/10/2021 - 	Integrais duplas sobre regiões do Tipo I
-- 05/10/2021 - 	Integrais duplas sobre regiões do Tipo II
+- 04/10/2021 - 	Integrais duplas sobre regiões do Tipo I e II
+- 05/10/2021 - 	Inversão de limites de integração em integrais duplas
 - 07/10/2021 - 	Aula de revisão com resolução de exercícios
 - 14/10/2021 - 	Integrais duplas em coordenadas polares (Parte 1)
 - 18/10/2021 - 	Integrais duplas em coordenadas polares (Parte 2)
