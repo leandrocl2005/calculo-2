@@ -24,9 +24,9 @@
 - 04/10/2021 - 	Integrais duplas sobre regiões do Tipo I e II
 - 05/10/2021 - 	Inversão de limites de integração em integrais duplas
 - 07/10/2021 - 	Aula de revisão com resolução de exercícios
-- 14/10/2021 - 	Integrais duplas em coordenadas polares (Parte 1)
-- 18/10/2021 - 	Integrais duplas em coordenadas polares (Parte 2)
-- 19/10/2021 - 	Integrais triplas sobre paralelepípedos
+- 14/10/2021 - 	Integrais duplas em coordenadas polares
+- 18/10/2021 - 	Aplicações de integrais duplas e triplas (Parte 1)
+- 19/10/2021 - 	Aplicações de integrais duplas e triplas (Parte 2)
 - 21/10/2021 - 	Integrais triplas sobre regiões gerais (Parte 1)
 - 25/10/2021 - 	Integrais triplas sobre regiões gerais (Parte 2)
 - 26/10/2021 - 	Mudança de coordenadas
