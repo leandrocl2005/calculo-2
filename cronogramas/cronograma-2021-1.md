@@ -25,13 +25,13 @@
 - 05/10/2021 - 	Inversão de limites de integração em integrais duplas
 - 07/10/2021 - 	Aula de revisão com resolução de exercícios
 - 14/10/2021 - 	Integrais duplas em coordenadas polares
-- 18/10/2021 - 	Aplicações de integrais duplas e triplas (Parte 1)
-- 19/10/2021 - 	Aplicações de integrais duplas e triplas (Parte 2)
-- 21/10/2021 - 	Integrais triplas sobre regiões gerais (Parte 1)
-- 25/10/2021 - 	Integrais triplas sobre regiões gerais (Parte 2)
-- 26/10/2021 - 	Mudança de coordenadas
-- 04/11/2021 - 	Integrais triplas em coordenadas cilíndricas
-- 08/11/2021 - 	Integrais triplas em coordenadas esféricas
+- 18/10/2021 - 	Aplicações de integrais duplas e triplas (área, volume e valor médio)
+- 19/10/2021 - 	Aplicações de integrais duplas e triplas (Probabilidades)
+- 21/10/2021 - 	Mudança de coordenadas e coordenadas cilíndricas
+- 25/10/2021 - 	Mudança de coordenadas e coordenadas esféricas
+- 26/10/2021 - 	Aula de revisão com resolução de exercícios
+- 04/11/2021 - 	Aplicações de integrais duplas e triplas (massa) 
+- 08/11/2021 - 	Aula de revisão com resolução de exercícios
 - 09/11/2021 - 	Aula de revisão com resolução de exercícios
 - 11/11/2021 - 	Segunda atividade avaliativa (Assíncrona)
 - 16/11/2021 - 	Campos vetoriais (Assíncrona)
