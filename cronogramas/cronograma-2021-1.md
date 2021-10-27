@@ -29,7 +29,7 @@
 - 19/10/2021 - 	Aplicações de integrais duplas e triplas (Probabilidades)
 - 21/10/2021 - 	Mudança de coordenadas e coordenadas cilíndricas
 - 25/10/2021 - 	Mudança de coordenadas e coordenadas esféricas
-- 26/10/2021 - 	Aula de revisão com resolução de exercícios
+- 26/10/2021 - 	Mudanças de coordenadas (generalização)
 - 04/11/2021 - 	Aplicações de integrais duplas e triplas (massa) 
 - 08/11/2021 - 	Aula de revisão com resolução de exercícios
 - 09/11/2021 - 	Aula de revisão com resolução de exercícios
