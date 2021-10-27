@@ -27,9 +27,10 @@
 - 14/10/2021 - 	Integrais duplas em coordenadas polares
 - 18/10/2021 - 	Aplicações de integrais duplas e triplas (área, volume e valor médio)
 - 19/10/2021 - 	Aplicações de integrais duplas e triplas (Probabilidades)
-- 21/10/2021 - 	Mudança de coordenadas e coordenadas cilíndricas
-- 25/10/2021 - 	Mudança de coordenadas e coordenadas esféricas
+- 21/10/2021 - 	Mudança de coordenadas (coordenadas cilíndricas)
+- 25/10/2021 - 	Mudança de coordenadas (coordenadas esféricas)
 - 26/10/2021 - 	Mudanças de coordenadas (generalização)
+- 27/10/2021 -  Revisão de mudança de coordandas
 - 04/11/2021 - 	Aplicações de integrais duplas e triplas (massa) 
 - 08/11/2021 - 	Aula de revisão com resolução de exercícios
 - 09/11/2021 - 	Aula de revisão com resolução de exercícios
@@ -38,13 +39,12 @@
 - 18/11/2021 - 	Integrais de linha
 - 22/11/2021 - 	Teorema fundamental das integrais de linha
 - 23/11/2021 - 	Teorema de Green
-- 25/11/2021 - 	Aula de revisão com resolução de exercícios
-- 29/11/2021 - 	Rotacional e divergente
-- 30/11/2021 - 	Superfícies parametrizadas e suas áreas
-- 02/12/2021 - 	Integrais de superfícies
-- 06/12/2021 - 	Aula de revisão com resolução de exercícios
-- 07/12/2021 - 	Teorema de Stokes
-- 13/12/2021 - 	Teorema de Gauss
-- 14/12/2021 - 	Aula de revisão com resolução de exercícios
+- 25/11/2021 - 	Rotacional e divergente
+- 29/11/2021 - 	Superfícies parametrizadas e suas áreas
+- 30/11/2021 - 	Integrais de superfícies
+- 02/12/2021 - 	Aula de revisão com resolução de exercícios
+- 06/12/2021 -  Teorema de Stokes
+- 07/12/2021 - 	Teorema de Gauss
+- 13/12/2021 - 	Aula de revisão com resolução de exercícios
 - 20/12/2021 -  Terceira atividade avaliativa (Assíncrona)
 - 03/01/2021 -  Exame
