@@ -33,12 +33,12 @@
 - 27/10/2021 -  Revisão de mudança de coordandas
 - 04/11/2021 - 	Aplicações de integrais duplas e triplas (massa) 
 - 08/11/2021 - 	Aula de revisão com resolução de exercícios
-- 09/11/2021 - 	Aula de revisão com resolução de exercícios
+- 09/11/2021 - 	Campos vetoriais (Assíncrona)
 - 11/11/2021 - 	Segunda atividade avaliativa (Assíncrona)
-- 16/11/2021 - 	Campos vetoriais (Assíncrona)
-- 18/11/2021 - 	Integrais de linha
-- 22/11/2021 - 	Teorema fundamental das integrais de linha
-- 23/11/2021 - 	Teorema de Green
+- 16/11/2021 - 	Integrais de linha
+- 18/11/2021 - 	Teorema fundamental das integrais de linha
+- 22/11/2021 - 	Teorema de Green
+- 23/11/2021 - 	Aula de revisão com resolução de exercícios
 - 25/11/2021 - 	Rotacional e divergente
 - 29/11/2021 - 	Superfícies parametrizadas e suas áreas
 - 30/11/2021 - 	Integrais de superfícies
@@ -46,5 +46,6 @@
 - 06/12/2021 -  Teorema de Stokes
 - 07/12/2021 - 	Teorema de Gauss
 - 13/12/2021 - 	Aula de revisão com resolução de exercícios
+- 14/12/2021 -  Aula de revisão com resolução de exercícios
 - 20/12/2021 -  Terceira atividade avaliativa (Assíncrona)
 - 03/01/2021 -  Exame
