@@ -1,6 +1,6 @@
 # Cálculo 2 - Leandro Cruvinel Lemes
 
-## Cronograma de aulas - 2020 - 2s
+## Cronograma de aulas - 2021 - 2s
 
 - 14/02/2022 - 	Revisão de limite e apresentação do curso
 - 15/02/2022 - 	Revisão de derivada
