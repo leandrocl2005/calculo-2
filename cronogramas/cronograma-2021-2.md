@@ -1,0 +1,50 @@
+# Cálculo 2 - Leandro Cruvinel Lemes
+
+## Cronograma de aulas - 2020 - 2s
+
+- 14/02/2022 - 	Revisão de limite e apresentação do curso
+- 15/02/2022 - 	Revisão de derivada
+- 17/02/2022 - 	Revisão de integral
+- 21/02/2022 - 	Revisão de vetores, retas e planos
+- 22/02/2022 - 	Revisão de curvas e superfícies
+- 24/02/2022 - 	Domínio de funções de várias variáveis
+- 03/03/2022 - 	Limite e continuidade de funções de várias variáveis
+- 07/03/2022 - 	Derivadas parciais
+- 08/03/2022 - 	Planos tangentes
+- 10/03/2022 - 	Aula de revisão com resolução de exercícios
+- 14/03/2022 - 	Regra da cadeia
+- 15/03/2022 - 	Vetor Gradiente
+- 17/03/2022 - 	Máximos e mínimos locais: Pontos críticos e teste da segunda derivada
+- 21/03/2022 - 	Máximos e mínimos absolutos em domínios fechados e limitados
+- 22/03/2022 - 	Multiplicadores de lagrange (Parte 1)
+- 24/03/2022 - 	Multiplicadores de lagrange (Parte 2)
+- 26/03/2022 - 	Primeira atividade avaliativa (Assíncrona)
+- 28/03/2022 - 	Integrais duplas sobre retângulos
+- 29/03/2022 - 	Integrais duplas sobre regiões do Tipo I e II
+- 31/03/2022 - 	Inversão de limites de integração em integrais duplas
+- 04/04/2022 - 	Aula de revisão com resolução de exercícios
+- 05/04/2022 - 	Integrais duplas em coordenadas polares
+- 07/04/2022 - 	Aplicações de integrais duplas e triplas (área, volume e valor médio)
+- 11/04/2022 - 	Aplicações de integrais duplas e triplas (Probabilidades)
+- 12/04/2022 - 	Mudança de coordenadas (coordenadas cilíndricas)
+- 18/04/2022 - 	Mudança de coordenadas (coordenadas esféricas)
+- 19/04/2022 - 	Mudanças de coordenadas (generalização)
+- 25/04/2022 -  Revisão de mudança de coordandas
+- 26/04/2022 - 	Aplicações de integrais duplas e triplas (massa) 
+- 28/04/2022 - 	Aula de revisão com resolução de exercícios
+- 30/04/2022 - 	Segunda atividade avaliativa (Assíncrona)
+- 02/05/2022 - 	Campos vetoriais
+- 03/05/2022 - 	Integrais de linha
+- 05/05/2022 - 	Teorema fundamental das integrais de linha
+- 09/05/2022 - 	Teorema de Green
+- 10/05/2022 - 	Aula de revisão com resolução de exercícios
+- 12/05/2022 - 	Rotacional e divergente
+- 16/05/2022 - 	Superfícies parametrizadas e suas áreas
+- 17/05/2022 - 	Integrais de superfícies
+- 19/05/2022 - 	Aula de revisão com resolução de exercícios
+- 23/05/2022 -  Teorema de Stokes
+- 24/05/2022 - 	Teorema de Gauss
+- 26/05/2022 - 	Aula de revisão com resolução de exercícios
+- 02/06/2022 -  Aula de revisão com resolução de exercícios
+- 04/06/2022 -  Terceira atividade avaliativa (Assíncrona)
+- 09/06/2022 -  Exame (presencial)
